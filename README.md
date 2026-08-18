@@ -71,8 +71,6 @@ The calculated values were compared with the corresponding values displayed in t
 ## Tools Used
 
 * Power BI
-* Python
-* Pandas
 * CSV datasets
 
 ## File
