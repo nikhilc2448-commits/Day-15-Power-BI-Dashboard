@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-This project is a Power BI dashboard built using the Day 14 Capstone Customers and Orders data.
+This project is a Power BI dashboard built using the Capstone Customers and Orders data.
 
 The dashboard focuses on analyzing **sales and profitability across regions, segments, and categories** to identify the key drivers of overall business performance.
 
 ## Dashboard Story
 
-**Analyze sales and profitability across regions, segments, and categories to identify the key drivers of overall business performance.**
+**Analyze sales and profitability across regions, segments, and categories to identify the key drivers of overall business performance**
 
 ## Dashboard Features
 
@@ -58,15 +58,13 @@ The **Customers–Orders relationship** is maintained in the Power BI data model
 
 ## Verification
 
-The dashboard values were cross-checked using Python.
+The dashboard values were cross-checked separately using the North region data.
 
-For verification, the data was filtered for the **North region** and the following values were calculated:
+The following values were verified against the Power BI dashboard:
 
 * Total Sales
 * Total Profit
 * Order Count
-
-The calculated values were compared with the corresponding values displayed in the Power BI dashboard.
 
 ## Tools Used
 
@@ -93,5 +91,5 @@ This project covers:
 
 The dashboard provides an interactive overview of sales and profitability and allows users to move from high-level KPIs to regional and order-level details through filtering and drill-through functionality.
 
-##Author:
-Nikhil Chougale
+## Author
+**Nikhil Chougale**
